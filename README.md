@@ -1,0 +1,1 @@
+In this project, I made a simple image finder application.
